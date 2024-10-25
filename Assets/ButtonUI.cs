@@ -12,7 +12,6 @@ public class ButtonUI : MonoBehaviour
 
     int damageAmount = 10;
     int healAmount = 10;
-    int healAmount2 = 10;
 //************************************************************************************************
 
     private void Awake()
